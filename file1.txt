@@ -3,3 +3,11 @@ This is my first commit. Yay!
 This is my second day of working.
 
 we made some change.
+
+<<<<<<< HEAD
+This is something need to be integrated.
+=======
+line by Shaoda.
+
+good coffee.
+>>>>>>> 188c5b20c0405fd13cb85a4a94089e07c9080dc8
